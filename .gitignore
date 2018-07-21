@@ -44,3 +44,5 @@ tutor-karma.conf.js
 Thumbs.db
 
 package-lock.json
+.nvmrc
+package-lock.json
